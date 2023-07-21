@@ -1,4 +1,3 @@
-Hello,
-My name is Berkan Taşçı and I mainly work on the backend but I love being involved with projects from start to finish in every aspect of it so I am very interested in fullstack development.
-
+Currently working with .NET, Typescript, Angular and Python.
+Open to take part in different projects.
 📫 Reach me at: berkan1695@gmail.com
